@@ -5,3 +5,7 @@ TODO::
 Add the depencies and how to actually set it up.
 
 
+GOAL::
+To create a seamless library to facilitate the future development of speech to text discord bots.
+
+
