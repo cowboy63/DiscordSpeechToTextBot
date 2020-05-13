@@ -7,14 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arami Guerra de La Llera",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+   "@discordjs/opus": "^0.1.0",
     "discord.js": "^12.1.1",
     "ffmpeg-static": "^4.1.0",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
-    "queue": "^6.0.1"
+    "queue": "^6.0.1",
+    "@google-cloud/speech": "^3.6.0",
+    "axios": "^0.19.2",
+    "node-record-lpcm16": "^1.0.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "yargs": "^15.3.1"
   }
 }
